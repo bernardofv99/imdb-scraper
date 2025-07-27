@@ -170,6 +170,24 @@ CREATE INDEX idx_actor_name ON actors (name);
 
 ---
 
+## 🤔 ¿Por qué no Selenium o Playwright?
+
+Aunque esta versión del scraper está hecha con `requests + BeautifulSoup` por su simpleza, también evalué herramientas como **Playwright** o **Selenium**, que son súper útiles en sitios con mucho JavaScript o mecanismos anti-bot más avanzados.
+
+### Si lo hiciera con Playwright o Selenium...
+
+- Se puede correr en **modo headless** (sin abrir el navegador) y configurar **headers custom** para que parezca más “humano”.
+- Hay formas de **evadir detecciones de webdriver**, como cambiar el `navigator.webdriver` o modificar propiedades del `window`.
+- Usaría **esperas explícitas** (`wait_for_selector`) para detectar dinámicamente cuando aparece cierto contenido en la página.
+- Si apareciera un **captcha** o el contenido se carga con JS dinámico, estas herramientas lo pueden renderizar sin problema.
+- Para mejorar el rendimiento, podría lanzar **varios workers** con colas de URLs y rotación de IPs o user-agents.
+
+### ¿Y Scrapy?
+
+También es buena opción si quieres algo más estructurado y escalable (como crawling de múltiples páginas o sitios), pero en este caso era suficiente un scraper puntual.
+
+---
+
 ## 👨‍💻 Autor
 
 Bernardo Flores – Python Backend Developer  
