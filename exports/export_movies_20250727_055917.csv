@@ -1,0 +1,51 @@
+title,rating,year,duration_minutes,metascore,actors,detail_url,external_id,platform
+The Shawshank Redemption,9.3,1994,142,82,"Tim Robbins, Morgan Freeman, Bob Gunton",https://www.imdb.com/title/tt0111161/,tt0111161,IMDB
+The Godfather,9.2,1972,175,100,"Marlon Brando, Al Pacino, James Caan",https://www.imdb.com/title/tt0068646/,tt0068646,IMDB
+The Dark Knight,9.1,2008,152,85,"Christian Bale, Heath Ledger, Aaron Eckhart",https://www.imdb.com/title/tt0468569/,tt0468569,IMDB
+The Godfather Part II,9.0,1974,202,90,"Al Pacino, Robert De Niro, Robert Duvall",https://www.imdb.com/title/tt0071562/,tt0071562,IMDB
+12 Angry Men,9.0,1957,96,97,"Henry Fonda, Lee J. Cobb, Martin Balsam",https://www.imdb.com/title/tt0050083/,tt0050083,IMDB
+The Lord of the Rings: The Return of the King,9.0,2003,201,94,"Elijah Wood, Viggo Mortensen, Ian McKellen",https://www.imdb.com/title/tt0167260/,tt0167260,IMDB
+Schindler's List,9.0,1993,195,95,"Liam Neeson, Ralph Fiennes, Ben Kingsley",https://www.imdb.com/title/tt0108052/,tt0108052,IMDB
+Pulp Fiction,8.8,1994,154,95,"John Travolta, Uma Thurman, Samuel L. Jackson",https://www.imdb.com/title/tt0110912/,tt0110912,IMDB
+The Lord of the Rings: The Fellowship of the Ring,8.9,2001,178,92,"Elijah Wood, Ian McKellen, Orlando Bloom",https://www.imdb.com/title/tt0120737/,tt0120737,IMDB
+"Il buono, il brutto, il cattivo",8.8,1966,178,90,"Clint Eastwood, Eli Wallach, Lee Van Cleef",https://www.imdb.com/title/tt0060196/,tt0060196,IMDB
+Forrest Gump,8.8,1994,142,82,"Tom Hanks, Robin Wright, Gary Sinise",https://www.imdb.com/title/tt0109830/,tt0109830,IMDB
+The Lord of the Rings: The Two Towers,8.8,2002,179,87,"Elijah Wood, Viggo Mortensen, Ian McKellen",https://www.imdb.com/title/tt0167261/,tt0167261,IMDB
+Fight Club,8.8,1999,139,67,"Brad Pitt, Edward Norton, Meat Loaf",https://www.imdb.com/title/tt0137523/,tt0137523,IMDB
+Inception,8.8,2010,148,74,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",https://www.imdb.com/title/tt1375666/,tt1375666,IMDB
+Star Wars: Episode V - The Empire Strikes Back,8.7,1980,124,82,"Mark Hamill, Harrison Ford, Carrie Fisher",https://www.imdb.com/title/tt0080684/,tt0080684,IMDB
+The Matrix,8.7,1999,136,73,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",https://www.imdb.com/title/tt0133093/,tt0133093,IMDB
+GoodFellas,8.7,1990,145,92,"Robert De Niro, Ray Liotta, Joe Pesci",https://www.imdb.com/title/tt0099685/,tt0099685,IMDB
+Interstellar,8.7,2014,169,74,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",https://www.imdb.com/title/tt0816692/,tt0816692,IMDB
+One Flew Over the Cuckoo's Nest,8.7,1975,133,84,"Jack Nicholson, Louise Fletcher, Michael Berryman",https://www.imdb.com/title/tt0073486/,tt0073486,IMDB
+Se7en,8.6,1995,127,65,"Morgan Freeman, Brad Pitt, Kevin Spacey",https://www.imdb.com/title/tt0114369/,tt0114369,IMDB
+It's a Wonderful Life,8.6,1946,130,89,"James Stewart, Donna Reed, Lionel Barrymore",https://www.imdb.com/title/tt0038650/,tt0038650,IMDB
+The Silence of the Lambs,8.6,1991,118,86,"Jodie Foster, Anthony Hopkins, Scott Glenn",https://www.imdb.com/title/tt0102926/,tt0102926,IMDB
+Shichinin no samurai,8.6,1954,207,98,"Toshirô Mifune, Takashi Shimura, Keiko Tsushima",https://www.imdb.com/title/tt0047478/,tt0047478,IMDB
+Saving Private Ryan,8.6,1998,169,91,"Tom Hanks, Matt Damon, Tom Sizemore",https://www.imdb.com/title/tt0120815/,tt0120815,IMDB
+The Green Mile,8.6,1999,189,61,"Tom Hanks, Michael Clarke Duncan, David Morse",https://www.imdb.com/title/tt0120689/,tt0120689,IMDB
+Cidade de Deus,8.6,2002,130,79,"Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",https://www.imdb.com/title/tt0317248/,tt0317248,IMDB
+La vita è bella,8.6,1997,116,58,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",https://www.imdb.com/title/tt0118799/,tt0118799,IMDB
+Terminator 2: Judgment Day,8.6,1991,137,75,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",https://www.imdb.com/title/tt0103064/,tt0103064,IMDB
+Star Wars,8.6,1977,121,90,"Mark Hamill, Harrison Ford, Carrie Fisher",https://www.imdb.com/title/tt0076759/,tt0076759,IMDB
+Back to the Future,8.5,1985,116,87,"Michael J. Fox, Christopher Lloyd, Lea Thompson",https://www.imdb.com/title/tt0088763/,tt0088763,IMDB
+Sen to Chihiro no kamikakushi,8.6,2001,124,96,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",https://www.imdb.com/title/tt0245429/,tt0245429,IMDB
+The Pianist,8.5,2002,150,85,"Adrien Brody, Thomas Kretschmann, Frank Finlay",https://www.imdb.com/title/tt0253474/,tt0253474,IMDB
+Gladiator,8.5,2000,155,67,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",https://www.imdb.com/title/tt0172495/,tt0172495,IMDB
+Gisaengchung,8.5,2019,132,97,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",https://www.imdb.com/title/tt6751668/,tt6751668,IMDB
+Psycho,8.5,1960,109,97,"Anthony Perkins, Janet Leigh, Vera Miles",https://www.imdb.com/title/tt0054215/,tt0054215,IMDB
+The Lion King,8.5,1994,88,88,"Matthew Broderick, Jeremy Irons, James Earl Jones",https://www.imdb.com/title/tt0110357/,tt0110357,IMDB
+Hotaru no haka,8.5,1988,88,94,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",https://www.imdb.com/title/tt0095327/,tt0095327,IMDB
+The Departed,8.5,2006,151,85,"Leonardo DiCaprio, Jack Nicholson, Matt Damon",https://www.imdb.com/title/tt0407887/,tt0407887,IMDB
+Whiplash,8.5,2014,106,89,"Miles Teller, J.K. Simmons, Melissa Benoist",https://www.imdb.com/title/tt2582802/,tt2582802,IMDB
+Seppuku,8.6,1962,133,85,"Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",https://www.imdb.com/title/tt0056058/,tt0056058,IMDB
+The Prestige,8.5,2006,130,66,"Christian Bale, Hugh Jackman, Scarlett Johansson",https://www.imdb.com/title/tt0482571/,tt0482571,IMDB
+American History X,8.5,1998,119,62,"Edward Norton, Edward Furlong, Beverly D'Angelo",https://www.imdb.com/title/tt0120586/,tt0120586,IMDB
+Léon,8.5,1994,110,64,"Jean Reno, Gary Oldman, Natalie Portman",https://www.imdb.com/title/tt0110413/,tt0110413,IMDB
+Spider-Man: Across the Spider-Verse,8.5,2023,140,86,"Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",https://www.imdb.com/title/tt9362722/,tt9362722,IMDB
+Casablanca,8.5,1942,102,100,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",https://www.imdb.com/title/tt0034583/,tt0034583,IMDB
+Nuovo Cinema Paradiso,8.5,1988,174,80,"Philippe Noiret, Enzo Cannavale, Antonella Attili",https://www.imdb.com/title/tt0095765/,tt0095765,IMDB
+The Usual Suspects,8.5,1995,106,76,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",https://www.imdb.com/title/tt0114814/,tt0114814,IMDB
+Intouchables,8.5,2011,112,57,"François Cluzet, Omar Sy, Anne Le Ny",https://www.imdb.com/title/tt1675434/,tt1675434,IMDB
+Alien,8.5,1979,117,89,"Sigourney Weaver, Tom Skerritt, John Hurt",https://www.imdb.com/title/tt0078748/,tt0078748,IMDB
+Modern Times,8.5,1936,87,96,"Charles Chaplin, Paulette Goddard, Henry Bergman",https://www.imdb.com/title/tt0027977/,tt0027977,IMDB
